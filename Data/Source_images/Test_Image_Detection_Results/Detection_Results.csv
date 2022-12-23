@@ -1,0 +1,35 @@
+image,image_path,xmin,ymin,xmax,ymax,label,confidence,x_size,y_size
+15.jpg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\15.jpg,263,145,530,336,0,0.2887741029262543,800,600
+16.jpg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\16.jpg,340,64,511,151,0,0.25034016370773315,730,430
+16.jpg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\16.jpg,478,0,720,59,0,0.2813454270362854,730,430
+16.jpg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\16.jpg,110,138,321,203,0,0.5292798280715942,730,430
+16.jpg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\16.jpg,208,0,388,63,0,0.7900086641311646,730,430
+16.jpg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\16.jpg,329,189,642,319,0,0.8877832889556885,730,430
+16.jpg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\16.jpg,14,262,172,391,0,0.9444293975830078,730,430
+17.jpg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\17.jpg,420,219,666,420,0,0.26868459582328796,667,458
+17.jpg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\17.jpg,227,127,271,162,0,0.29662197828292847,667,458
+17.jpg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\17.jpg,392,391,493,458,0,0.35403716564178467,667,458
+17.jpg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\17.jpg,449,135,555,177,0,0.3790090084075928,667,458
+17.jpg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\17.jpg,4,199,111,295,0,0.573864221572876,667,458
+17.jpg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\17.jpg,369,83,482,130,0,0.6889179944992065,667,458
+17.jpg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\17.jpg,180,235,373,353,0,0.8306383490562439,667,458
+18.jpg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\18.jpg,424,906,606,1085,0,0.4284721910953522,992,1473
+p2.jpg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\p2.jpg,317,307,458,392,0,0.4184808135032654,1200,667
+p2.jpg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\p2.jpg,111,250,314,354,0,0.4905969500541687,1200,667
+p2.jpg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\p2.jpg,497,519,676,658,0,0.5179610252380371,1200,667
+p2.jpg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\p2.jpg,780,259,1163,463,0,0.6565589904785156,1200,667
+p2.jpg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\p2.jpg,765,165,919,272,0,0.7558620572090149,1200,667
+WhatsApp Image 2022-12-22 at 6.51.30 PM (1).jpeg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\WhatsApp Image 2022-12-22 at 6.51.30 PM (1).jpeg,249,110,341,142,0,0.3593451678752899,390,260
+WhatsApp Image 2022-12-22 at 6.51.30 PM (1).jpeg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\WhatsApp Image 2022-12-22 at 6.51.30 PM (1).jpeg,73,103,179,137,0,0.3884621262550354,390,260
+WhatsApp Image 2022-12-22 at 6.51.30 PM (1).jpeg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\WhatsApp Image 2022-12-22 at 6.51.30 PM (1).jpeg,182,94,248,123,0,0.5092322826385498,390,260
+WhatsApp Image 2022-12-22 at 6.51.30 PM (1).jpeg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\WhatsApp Image 2022-12-22 at 6.51.30 PM (1).jpeg,68,159,200,235,0,0.9240725040435791,390,260
+WhatsApp Image 2022-12-22 at 6.51.30 PM (2).jpeg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\WhatsApp Image 2022-12-22 at 6.51.30 PM (2).jpeg,205,98,295,137,0,0.42702776193618774,375,250
+WhatsApp Image 2022-12-22 at 6.51.30 PM (2).jpeg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\WhatsApp Image 2022-12-22 at 6.51.30 PM (2).jpeg,150,110,262,193,0,0.542394757270813,375,250
+WhatsApp Image 2022-12-22 at 6.51.30 PM.jpeg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\WhatsApp Image 2022-12-22 at 6.51.30 PM.jpeg,245,56,301,83,0,0.3778946101665497,360,234
+WhatsApp Image 2022-12-22 at 6.51.30 PM.jpeg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\WhatsApp Image 2022-12-22 at 6.51.30 PM.jpeg,14,124,85,180,0,0.3937704563140869,360,234
+WhatsApp Image 2022-12-22 at 6.51.30 PM.jpeg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\WhatsApp Image 2022-12-22 at 6.51.30 PM.jpeg,176,22,226,57,0,0.4471518099308014,360,234
+WhatsApp Image 2022-12-22 at 6.51.31 PM (1).jpeg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\WhatsApp Image 2022-12-22 at 6.51.31 PM (1).jpeg,74,68,192,105,0,0.34532347321510315,408,227
+WhatsApp Image 2022-12-22 at 6.51.31 PM (1).jpeg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\WhatsApp Image 2022-12-22 at 6.51.31 PM (1).jpeg,130,100,277,143,0,0.38621413707733154,408,227
+WhatsApp Image 2022-12-22 at 6.51.31 PM (1).jpeg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\WhatsApp Image 2022-12-22 at 6.51.31 PM (1).jpeg,137,156,340,217,0,0.5315597653388977,408,227
+WhatsApp Image 2022-12-22 at 6.51.31 PM.jpeg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\WhatsApp Image 2022-12-22 at 6.51.31 PM.jpeg,128,25,202,48,0,0.40757057070732117,321,240
+WhatsApp Image 2022-12-22 at 6.51.31 PM.jpeg,C:\Users\syed asimuddin\Desktop\pothole detection using YOLO\yolo_structure\Data\Source_Images\Test_Images\WhatsApp Image 2022-12-22 at 6.51.31 PM.jpeg,119,103,213,156,0,0.686393141746521,321,240
